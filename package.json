@@ -1,0 +1,14 @@
+{
+  "name": "fullstackfe",
+  "version": "1.0.0",
+  "description": "learning full stack development",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "soletscode",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
